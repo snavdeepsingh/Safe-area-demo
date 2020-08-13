@@ -1,0 +1,7 @@
+{
+  "name": "safe-area",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
